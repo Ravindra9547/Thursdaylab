@@ -14,7 +14,7 @@ public static void main(String []args)
    for(i=1;i<=10;i++)                    //running loop from 1 to 10 
    {
 	   
-	   System.out.println(+num+" * "+i+" = "+num*i);  //display output
+	   System.out.println(num+" * "+i+" = "+num*i);  //display output
    }
 }
 }
