@@ -10,8 +10,8 @@ public static void main(String []args)
 	Scanner sc=new Scanner(System.in);
 	int num,firstdigit,lastdigit;      //declare variables
 	System.out.println("Please Enter any Number:");   // taking input from user
-    num=sc.nextInt();	
-    // finding the first digit of the number:taking while loop
+         num=sc.nextInt();	
+        // finding the first digit of the number:taking while loop
 	firstdigit=num;   //assigning num value in first digit
 	while(firstdigit>=10) //check condition:if first digit is greater or equal to 10 
 	{
