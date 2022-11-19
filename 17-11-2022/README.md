@@ -2,7 +2,7 @@ Topics Covered on 17-11-2022
 
 Hands-on Assignments for Inheritance
 
-1
+1. LabAnimals
 
 Create a class named ‘Animal’ which includes methods like eat() and sleep().
 
@@ -12,7 +12,7 @@ Create an instance of Animal class and invoke the eat and sleep methods using th
 
 Create an instance of Bird class and invoke the eat, sleep and fly methods using this object.
 
-2
+2.LabPerson
 
 Create a class called Person with a member variable name. Save it in a file called Person.java
 
@@ -22,7 +22,7 @@ Your class should have a necessary constructors and getter/setter methods.
 
 Write another class called TestEmployee, containing a main method to fully test your class definition.
 
-3
+3.LAbSchoolApplication
 
 Create a school application with a class called Person. Create name and date0fBirth as member Variables.
 
@@ -34,7 +34,7 @@ Create a class called College Student that inherits from Student class. This cla
 
 Create	objects	of	each  of this	c1asses ,	invoke and test the methods that are available in these classes.
 
-4
+4.LabInheritanceActivity
 
 After completing the hands-on exercises, you will be able to:
 
