@@ -1,7 +1,7 @@
 Topics Covered on 17-11-2022
 
 Hands-on Assignments for Inheritance
-
+------------------
 1. LabAnimals.java
 ------------------
 Create a class named ‘Animal’ which includes methods like eat() and sleep().
@@ -130,8 +130,8 @@ iii. For a trainee, the transport allowance is same as the default allowance; th
 iv. Invoke the calculateTransportAllowance for the manager and trainee class in the main 
 method of InheritanceActivity.java
 
-5.LabVaccination
------------------
+5.LabVaccination.java
+---------------------
 Ques: create class vaccine.create 2 concrete method firstDose() and 2ndDose().
 
 Scenario 1:user can take first dose if user is Indian and age is 18.after vaccination user has to pay 250rs.
