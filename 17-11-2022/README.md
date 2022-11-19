@@ -49,12 +49,12 @@ Problem Statement 1:
 
 1. Create a class Employee with the following instance variables.
 ------------------------------------------------------------
-Instance variables                              Data type                     
-employeeId                                      long
-employeeName                                    String
-employee Address                                String
-employee Phone                                  long
-basicSalary                                     double
+Instance variables        -                      Data type,                     
+employeeId                 -                     long,
+employeeName                -                    String,
+employee Address             -                   String,
+employee Phone                -                  long,
+basicSalary                    -                 double,
 -------------------------------------------------------------
 specialAllowance double default value- 250.80
 Hra double,default value-1000.50
