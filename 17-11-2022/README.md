@@ -58,15 +58,15 @@ basicSalary                    -                 double,
 -------------------------------------------------------------
 specialAllowance double default value- 250.80
 Hra double,default value-1000.50
-
+------------------------------------------------------------
 2. Create an overloaded constructor in the employee class, which takes the below constructor parameters and initializes them to their respective instance variables.
-
-Constructor parameter                          Instance Variable
-Id                                             employeeId
-Name                                           employeeName
-address                                        employeeAddress
-phone                                          employeePhone
-
+---------------------------------------------------------------------
+Constructor parameter       and                   Instance Variable
+Id                          -                   employeeId
+Name                         -                  employeeName
+address                       -                 employeeAddress
+phone                          -                employeePhone
+--------------------------------------------------------------------
 3. Create a method calculateSalary in which the basic salary needs to be calculated as below.
 
 salary = basicSalary + ( basicSalary * specialAllowance/100) + ( basicSalary * hra/100);
@@ -76,41 +76,42 @@ The calculated salary should be displayed in the console.
  NOTE: salary is a local variable.
  
 4. Create the sub classes Manager and Trainee with base class Employee. Create overloaded constructors which takes the below parameters and initializes them to their respective variables in the super class.
-
-Constructor parameter                          Instance Variable
-id                                             employeeId
-Name                                           employeeName
-address                                        employeeAddress
-phone                                          employeePhone
-salary                                         basicSalary
-
+------------------------------------------------------------------------
+Constructor parameter         and                 Instance Variable
+id                             -                employeeId
+Name                            -               employeeName
+address                          -              employeeAddress
+phone                             -             employeePhone
+salary                             -            basicSalary
+---------------------------------------------------------------------------
 5. Create a class “InheritanceActivity.java” with a main method which performs the below functions,
 
 Test case #1:
 
 • Create an instance of Manager class by calling the overloaded constructor with 
 the below parameters,
-
-Constructor parameter                         Instance Variable
-id                                            126534
-Name                                          "Peter"
-address                                       "Chennai India”
-phone                                         237844
-salary                                        65000
-
+------------------------------------------------------------------
+Constructor parameter        and                 Instance Variable
+id                            -                126534
+Name                           -               "Peter"
+address                         -              "Chennai India”
+phone                            -             237844
+salary                            -            65000
+------------------------------------------------------------------
 • Invoke the calculateSalary method of the manager object. 
 The salary calculated should be printed in the console.
 
 Test case #2:
 
 • Create an instance of Trainee class by calling the overloaded constructor with the below parameters,
-Constructor parameter                        Instance Variable
-id                                           29846
-Name                                         "Jack"
-address                                      "Mumbai India”
-phone                                        442085
-salary                                       45000
-
+-----------------------------------------------------------------
+Constructor parameter        and                Instance Variable
+id                            -               29846
+Name                           -              "Jack"
+address                         -             "Mumbai India”
+phone                            -            442085
+salary                            -           45000
+----------------------------------------------------------------
 • Invoke the calculateSalary method of the trainee object. 
 The salary calculated should be printed in the console.
 
