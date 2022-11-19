@@ -2,8 +2,6 @@ Topics Covered on 17-11-2022
 
 Hands-on Assignments for Inheritance
 
-No. Hands-on Assignment Topics Covered Status
-
 1
 
 Create a class named ‘Animal’ which includes methods like eat() and sleep().
