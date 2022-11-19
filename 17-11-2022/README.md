@@ -117,17 +117,25 @@ The salary calculated should be printed in the console.
 
 Problem Statement 2:
 
-1. Add a method called calculateTransportAllowance in Employee class which should calculate the transport allowance by calculating 10% (default allowance) of the salary. Print the salary after calculating. 
+i. Add a method called calculateTransportAllowance in Employee class which should calculate the transport allowance by calculating 10% (default allowance) of the salary. Print the salary after calculating. 
 
 transportAllowance = 10/100*basicSalary.
 
-2. For a manager, the transportation allowance is 15% of the basic salary. So override the calculateTransportAllowance method in Manager class which should calculate the transport allowance as 15% of the base salary. Print the salary after calculating. 
+ii. For a manager, the transportation allowance is 15% of the basic salary. So override the calculateTransportAllowance method in Manager class which should calculate the transport allowance as 15% of the base salary. Print the salary after calculating. 
 
 transportAllowance = 15*basicSalary /100.
 
-3. For a trainee, the transport allowance is same as the default allowance; the method calculateTransportAllowance in the base class can be used. 
+iii. For a trainee, the transport allowance is same as the default allowance; the method calculateTransportAllowance in the base class can be used. 
 
-4. Invoke the calculateTransportAllowance for the manager and trainee class in the main 
+iv. Invoke the calculateTransportAllowance for the manager and trainee class in the main 
 method of InheritanceActivity.java
 
+5.
 
+Ques: create class vaccine.create 2 concrete method firstDose() and 2ndDose().
+
+Scenario 1:user can take first dose if user is Indian and age is 18.after vaccination user has to pay 250rs.
+
+Scenario 2: user can take 2nd dose if already the first dose has completed.
+
+Scenario 3: create class Bootstar dose and extend vaccine class.create static method boosterDose() in class Bootstar dose.if user has completed dose 1 and dose 2 then they are eligible for booster dose.
