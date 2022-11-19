@@ -1,9 +1,9 @@
 Topics Covered on 17-11-2022
 
 Hands-on Assignments for Inheritance
--------------------
-1. LabAnimals.java
 
+1. LabAnimals.java
+------------------
 Create a class named ‘Animal’ which includes methods like eat() and sleep().
 
 Create a child class of Animal named ‘Bird’ and override the parent class methods. Add a new method named fly().
