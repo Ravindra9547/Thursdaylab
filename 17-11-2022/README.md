@@ -13,7 +13,7 @@ Create an instance of Animal class and invoke the eat and sleep methods using th
 Create an instance of Bird class and invoke the eat, sleep and fly methods using this object.
 
 2.LabPerson.java
-
+-----------------
 Create a class called Person with a member variable name. Save it in a file called Person.java
 
 Create a class called Employee who will inherit the Person class.The other data members of the employee class are annual salary (double), the year the employee started to work, and the national insurance number which is a String.Save this in a file called Employee.java
@@ -23,7 +23,7 @@ Your class should have a necessary constructors and getter/setter methods.
 Write another class called TestEmployee, containing a main method to fully test your class definition.
 
 3.LAbSchoolApplication.java
-
+-----------------------------
 Create a school application with a class called Person. Create name and date0fBirth as member Variables.
 
 Create a class called Teacher that inherits from the Person class. The teacher will have additional properties like salary, and the subject that the teacher teaches.
@@ -35,7 +35,7 @@ Create a class called College Student that inherits from Student class. This cla
 Create	objects	of	each  of this	c1asses ,	invoke and test the methods that are available in these classes.
 
 4.LabInheritanceActivity.java
-
+-------------------------------
 After completing the hands-on exercises, you will be able to:
 
 • Implement Inheritance in your program
@@ -130,8 +130,8 @@ iii. For a trainee, the transport allowance is same as the default allowance; th
 iv. Invoke the calculateTransportAllowance for the manager and trainee class in the main 
 method of InheritanceActivity.java
 
-5.
-
+5.LabVaccination
+-----------------
 Ques: create class vaccine.create 2 concrete method firstDose() and 2ndDose().
 
 Scenario 1:user can take first dose if user is Indian and age is 18.after vaccination user has to pay 250rs.
