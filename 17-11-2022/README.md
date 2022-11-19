@@ -49,7 +49,7 @@ Problem Statement 1:
 
 1. Create a class Employee with the following instance variables.
 ------------------------------------------------------------
-Instance variables        -                      Data type,                     
+Instance variables        and                   Data type                     
 employeeId                 -                     long,
 employeeName                -                    String,
 employee Address             -                   String,
