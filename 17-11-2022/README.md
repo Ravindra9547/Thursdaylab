@@ -48,7 +48,7 @@ The Manager has a travel allowance equal to 15% of the basic salary, whereas all
 Problem Statement 1:
 
 1. Create a class Employee with the following instance variables.
-------------------------------------------------------------
+
 Instance variables        and                   Data type                     
 employeeId                 -                     long,
 employeeName                -                    String,
@@ -60,7 +60,7 @@ specialAllowance double default value- 250.80
 Hra double,default value-1000.50
 ------------------------------------------------------------
 2. Create an overloaded constructor in the employee class, which takes the below constructor parameters and initializes them to their respective instance variables.
----------------------------------------------------------------------
+
 Constructor parameter       and                   Instance Variable
 Id                          -                   employeeId
 Name                         -                  employeeName
@@ -76,7 +76,7 @@ The calculated salary should be displayed in the console.
  NOTE: salary is a local variable.
  
 4. Create the sub classes Manager and Trainee with base class Employee. Create overloaded constructors which takes the below parameters and initializes them to their respective variables in the super class.
-------------------------------------------------------------------------
+
 Constructor parameter         and                 Instance Variable
 id                             -                employeeId
 Name                            -               employeeName
@@ -90,7 +90,7 @@ Test case #1:
 
 • Create an instance of Manager class by calling the overloaded constructor with 
 the below parameters,
-------------------------------------------------------------------
+
 Constructor parameter        and                 Instance Variable
 id                            -                126534
 Name                           -               "Peter"
@@ -104,7 +104,7 @@ The salary calculated should be printed in the console.
 Test case #2:
 
 • Create an instance of Trainee class by calling the overloaded constructor with the below parameters,
------------------------------------------------------------------
+
 Constructor parameter        and                Instance Variable
 id                            -               29846
 Name                           -              "Jack"
