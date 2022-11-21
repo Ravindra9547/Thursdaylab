@@ -103,12 +103,7 @@ class CollegeStudent extends Student1
 public class LabSchoolApplication {
 public static void main(String []args)
 {
-	System.out.println("College Application");
-	System.out.println("--------------------------------------");
-    Person1 per=new Person1("Mr. Shiva","12-12-2001");
-    System.out.println("Person Name: "+per.getname());
-    System.out.println("Date of Birth:"+per.getdateOfBirth());
-    
+    System.out.println("College Application");    
     System.out.println("--------------------------------------");
     Teacher tea=new Teacher("Monalisa Chakraborty","15-07-1995",50000,"Java Full Stack");
     System.out.println("Teacher Name: "+tea.getname());
