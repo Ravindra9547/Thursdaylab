@@ -1,4 +1,4 @@
-Topics Covered on 17-11-2022
+Lab Topics Covered on 17-11-2022
 
 Hands-on Assignments for Inheritance
 ------------------
