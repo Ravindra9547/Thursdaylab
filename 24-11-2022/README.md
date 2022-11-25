@@ -1,7 +1,9 @@
 Lab Topics Covered on 24-11-2022
 
-Hands-on Assignments for Inheritance
-
+Hands-on Assignments for Interface
+--------------------------------------
+1.LabLibraryInterfaceDemo
+---------------------------------------
 
 A library needs to develop an online application for two types of users/roles, 
 Adults and children. Both of these users should be able to register an account. 
