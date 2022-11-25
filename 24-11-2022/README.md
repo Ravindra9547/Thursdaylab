@@ -12,15 +12,16 @@ Develop Interfaces and classes for the categories mentioned above.
 1. Create an interface LibraryUser with the following methods declared,
 
 Method Name
-------------
+
 registerAccount
+
 requestBook
 
 2. Create 2 classes “KidUsers” and “AdultUser” which implements the LibraryUser interface.
 3.  Both the classes should have two instance variables as specified below.
 
 Instance variables  Data type
------------------------------
+
 age int
 bookType String
 
