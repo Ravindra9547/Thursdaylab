@@ -23,6 +23,7 @@ requestBook
 Instance variables  Data type
 
 age int
+
 bookType String
 
 4. The methods in the KidUser class should perform the following logic. 
@@ -52,25 +53,36 @@ Test case #1:
 * Set the age as specified in the below table and invoke the registerAccount method  of the  KidUser object
 
 Age
+
 10
+
 18
 
 * Set the book Type as specified in the below table and invoke the requestBook method of the KidUser object,
 
+
 BookType
+
 “Kids”
+
 “Fiction”
 
 Test case #2:
 * Create an instance of AdultUser class. 
 * Set the age as specified in the below table and invoke the registerAccount method of the AdultUser object
 
+
 Age
+
 5
+
 23
 
 * Set the book Type as specified in the below table and invoke the requestBook method of the  AdultUser  object
 
+
 BookType
+
 “Kids”
+
 “Fiction”
