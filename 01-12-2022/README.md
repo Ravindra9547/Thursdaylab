@@ -6,8 +6,16 @@ PROGRAMS
 
 Write a program to copy all elements from one array to another.
 
-2.Lab
+2.LabCountOddAndEvenArray.java
 
-LabReverseArray.java
------------------
+Write a program to count total number of odd and even numbers from an array.
+
+3.LabFindMinAndMax.java
+Write a program to find minimum and maximum of an array.
+
+4.LabNegativeArray.java
+Write a program to print all negative numbers in an array.
+
+5.LabReverseArray.java
+-----------------------
 Write a program to print reverse of an array element.
