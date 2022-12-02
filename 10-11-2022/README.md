@@ -5,4 +5,4 @@ PROGRAMS
 -----------------
 2.LabEmployeeSalary.java
 ------------------------
-3.Lab
+3.LabPerefctNumber1To50.java
