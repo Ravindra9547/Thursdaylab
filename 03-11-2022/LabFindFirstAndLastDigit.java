@@ -22,5 +22,5 @@ public static void main(String []args)
 		//display output
 	 System.out.println("The First Digit of a Given Number " +num+ "  =  " + firstdigit);
 	 System.out.println("The Last Digit of a Given Number " +num+ "  =  " + lastdigit);
-	}
+}
 }
