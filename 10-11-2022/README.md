@@ -12,3 +12,4 @@ Write a program to create Employee class assign variables like id,name,basic sal
 
 3.LabPerefctNumber1To50.java
 -----------------------------
+Write a program to print Perfect number between 1 to 50.
