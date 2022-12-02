@@ -69,7 +69,7 @@ public static void main(String []args)
 	System.out.println("-------------------------------------");
 	
 	Employee obj=new Employee();
-    obj.details(id,name,designation,ta,bs);
+        obj.details(id,name,designation,ta,bs);
 	obj.annualSalary();
 	obj.display();
 }
