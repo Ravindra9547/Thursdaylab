@@ -19,5 +19,5 @@ Write a program to find minimum and maximum of an array.
 Write a program to print all negative numbers in an array.
 
 5.LabReverseArray.java
-=======================
+----------------------
 Write a program to print reverse of an array element.
