@@ -16,6 +16,6 @@ public static void main(String []args)
 	{
 		sum+=i;                 //doing sum of even numbers 
 	}
-	System.out.println("The Sum of all even number from 1 to "+num+" is:"  +sum);
+	 System.out.println("The Sum of all even number from 1 to "+num+" is:"  +sum);
 }
 }
