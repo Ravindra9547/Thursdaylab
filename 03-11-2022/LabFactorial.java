@@ -15,5 +15,5 @@ public static void main(String []args)
 	}
 	System.out.println("The Factorial of " +num+ "!= " +fact);   //display output
 	
-	}
+}
 }
