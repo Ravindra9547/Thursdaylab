@@ -45,8 +45,8 @@ void deposit()
 public class Banking {
 public static void main(String []args)
 {
-	Bank obj=new Bank();
-	obj.withdraw();
+      Bank obj=new Bank();
+      obj.withdraw();
 	
 }
 }
