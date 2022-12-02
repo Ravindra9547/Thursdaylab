@@ -8,6 +8,10 @@ Write a program to calculate factorial of a number.
 
 2.LabFindFirstAndLastDigit.java
 ---------------------------------
-3.LabMultiplicationTable.java
-4.LabSumOfEvenNumber.java
+Write a program to find out first and last digit from a number.
 
+3.LabMultiplicationTable.java
+-----------------------------
+
+4.LabSumOfEvenNumber.java
+--------------------------
