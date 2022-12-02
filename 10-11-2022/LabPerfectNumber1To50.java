@@ -22,7 +22,7 @@ public static void main(String []args)
 		{
 			System.out.println(sum);
 		}
-		sum=0;//sum=0 for 2nd iteration
+		 sum=0;//sum=0 for 2nd iteration
 	}
 	
 }	
