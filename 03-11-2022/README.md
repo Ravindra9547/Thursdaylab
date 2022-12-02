@@ -16,3 +16,4 @@ Write a program to print multiplication table.
 
 4.LabSumOfEvenNumber.java
 --------------------------
+Write a program to calculate sum of all even numbers.
