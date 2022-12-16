@@ -18,10 +18,14 @@ Write a program to join two string.
 ------------------------------
 Write a program to find out number of occurance of one alphabets.
 
-5.Lab
-Write a program to check if the letter 'e' is present in the word 'mumbai' or not.
-2.wap to check if the worrd "I" is present in the
- "I love my India" or not.
-3.wap to print reverse of a string.
+5.LabReverseString.java
+-----------------------
+Write a program to print reverse of a string.
+
+6.LabSearchLetterString.java
+----------------------------
+i.Write a program to check if the letter 'e' is present in the word 'mumbai' or not.
+ii.Write a program to check if the worrd "I" is present in the "I love my India" or not.
+
 
 
