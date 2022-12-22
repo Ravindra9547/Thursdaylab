@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class SumOfAlphaNumericString {
 public static void main(String []args)
 {
-	//declare variables
-	String str;
+    //declare variables
+    String str;
     int sum=0;
     Scanner sc=new Scanner(System.in);
     System.out.println("Enter alphanumeric string: "); // taking input from user
