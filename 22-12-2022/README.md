@@ -10,6 +10,10 @@ Write program to show method overriding using a Bank class as super class and cr
 ------------------------
 Write a program to remove a specific element from an array.
 
+3.LabRunTimePolymorphism.java
+------------------------------
+Write a program of run time polymorphism with a real time scenario.
+
 3.LabSumOfAlphaNumericString.java
 ----------------------------------
 Write a program to find out the sum of all digits from an alpha numeric string.
